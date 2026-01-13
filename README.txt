@@ -13,3 +13,8 @@ Do
 ./vr_burst_sender.py --help
 
 to understand the input options and what they mean
+
+You can save your desired settings in the .sh files and run 
+bash vr_burst_receiver.sh at the receiver
+and 
+bash vr_burst_sender.sh at the sender
